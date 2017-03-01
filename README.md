@@ -8,16 +8,17 @@
 - 期望职位：web前端工程师
 - 期望工作城市：深圳
 
----
+
 
 # 联系方式
 
 - 手机：13682307128
 - Email：550275752@qq.com
 - 微信:LY550275752
+
 ![微信](wxPic.jpg)
 
----
+
 
 # 技能清单
 - 熟练掌握HTML,CSS,Javascript
@@ -26,7 +27,7 @@
 - 基本会用webpack自动构建工具并运用到项目中
 - 了解PHP和MYSQL基本语法，有一定的数据结构和算法基础
 
----
+
 
 # 个人项目
 
@@ -34,9 +35,10 @@
 - [Vin.js](https://github.com/LY550275752/Vin)  学习Vue原理，并实现的一个MVVM框架
 - [Vue音乐播放器](https://github.com/LY550275752/my-music)   基于Webpack+Vue.js,Vuex,Vue-router,Vue-resource
 - [myDemo](https://github.com/LY550275752/myDemo)   自己学习路上玩的各种Demo
-- [三个小游戏]https://github.com/LY550275752/GameParks)
+- [三个小游戏](https://github.com/LY550275752/GameParks) 五子棋，小方块，2048
+- [百度前端学院任务](https://github.com/LY550275752/MyBaiduIFE)
 
----
+
 
 # 工作经历
 
@@ -54,7 +56,7 @@
 	- 项目描述：开发一个pc端的管理平台，统一管理旗下一百多个公众号，包括素材管理，系统权限设置，统一回复等功能。
 	- 负责内容：负责菜单模块，数据统计模块，素材模块的前端开发，以及后期维护和修bug。使用Sea.js作模块化，使用Vue+Jquery作基本技术栈。使用到Jquery UI, highchart实现菜单拖拽排序和可视化数据分析
 
----
+
 
 # 自我评价
 
