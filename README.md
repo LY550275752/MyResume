@@ -36,7 +36,7 @@
 - [Vue音乐播放器](https://github.com/LY550275752/my-music)   基于Webpack+Vue.js,Vuex,Vue-router,Vue-resource
 - [myDemo](https://github.com/LY550275752/myDemo)   自己学习路上玩的各种Demo
 - [三个小游戏](https://github.com/LY550275752/GameParks) 五子棋，小方块，2048
-- [百度前端学院任务](https://github.com/LY550275752/MyBaiduIFE)
+- [百度前端学院任务](https://github.com/LY550275752/MyBaiduIFE)       百度IFE团队的一个活动
 
 
 
@@ -53,7 +53,7 @@
 
 ### 招商证券PC端微信公众号管理平台
 	
-	- 项目描述：开发一个pc端的管理平台，统一管理旗下一百多个公众号，包括素材管理，系统权限设置，统一回复等功能。
+	- 项目描述：开发一个pc端的SPA单页面应用，统一管理旗下一百多个公众号，包括素材管理，系统权限设置，统一回复等功能。
 	- 负责内容：负责菜单模块，数据统计模块，素材模块的前端开发，以及后期维护和修bug。使用Sea.js作模块化，使用Vue+Jquery作基本技术栈。使用到Jquery UI, highchart实现菜单拖拽排序和可视化数据分析
 
 
